@@ -1,4 +1,4 @@
-# appFuncion-rios
+# appFuncionarios
 Aplicação desenvolvida durante a aula. Estudando alguns conceitos
 
 Print da aplicação
