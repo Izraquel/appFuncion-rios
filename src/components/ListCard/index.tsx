@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
   buttonCard: {
     width: '100%',
     padding: 6,
-    backgroundColor: '#969CB2',
+    backgroundColor: '#b0bbe4',
     borderRadius: 10
   },
   textCard: {
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   titleCard: {
-    color: '#ff872c',
+    color: '#5636d3',
     fontSize: 26,
     fontWeight: 'bold',
     flexDirection: 'row',
